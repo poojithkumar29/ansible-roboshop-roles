@@ -1,3 +1,9 @@
 REDIS_HOST: redis.daws1.shop
 MONGODB_HOST: mongodb.daws1.shop
 CATALOGUE_HOST: catalogue.daws1.shop
+CART_HOST: cart.daws1.shop
+USER_HOST: user.daws1.shop
+RABBITMQ_HOST: rabbitmq.daws1.shop
+MYSQL_HOST: mysql.daws1.shop
+SHIPPING_HOST: shipping.daws1.shop
+PAYMENT_HOST: payment.daws1.shop
