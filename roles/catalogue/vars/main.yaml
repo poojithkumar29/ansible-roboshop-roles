@@ -1,1 +1,2 @@
 MONGODB_dns: mongodb.daws1.shop
+REDIS_HOST: redis.daws1.shop
