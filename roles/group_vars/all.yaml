@@ -1,0 +1,3 @@
+REDIS_HOST: redis.daws1.shop
+MONGODB_HOST: mongodb.daws1.shop
+CATALOGUE_HOST: catalogue.daws1.shop
